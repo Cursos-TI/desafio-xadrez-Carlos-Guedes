@@ -20,6 +20,19 @@ int Bispo = 1;
         printf("%d Cima, Direita\n", Bispo);
         Bispo++;
     }while (Bispo <= 5);
+    printf(" \n");
+
+//CAVALO
+int i , j ;
+    for (i = 1; i <= 1; i++){
+        j = 1;
+        while (j <= 2){
+            printf("Baixo\n");
+            j++;
+        }printf("Esquerda\n");
+    }
+
+
 
 return 0;
     
